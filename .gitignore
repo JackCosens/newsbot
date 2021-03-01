@@ -1,0 +1,5 @@
+/api/node_modules/*
+/api/config.js
+
+/bot/node_modules/*
+/bot/config.js

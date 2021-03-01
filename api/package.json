@@ -1,0 +1,17 @@
+{
+  "name": "news-bot-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "news-bot-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node news-bot-api.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "twitter": "^1.7.1",
+    "url-metadata": "^2.5.0"
+  }
+}
